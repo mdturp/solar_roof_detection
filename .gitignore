@@ -1,0 +1,4 @@
+python_env
+data/raw_data
+data/label_ready_data
+data/label_ready_data.zip
